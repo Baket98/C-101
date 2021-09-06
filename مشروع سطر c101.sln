@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "مشروع سطر c101", "مشروع سطر c101\مشروع سطر c101.csproj", "{24CD62AF-97B8-4D3D-8FA3-60546B90CCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CD62AF-97B8-4D3D-8FA3-60546B90CCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CD62AF-97B8-4D3D-8FA3-60546B90CCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CD62AF-97B8-4D3D-8FA3-60546B90CCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CD62AF-97B8-4D3D-8FA3-60546B90CCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDDEDA54-7A4E-43F4-ADB3-3FACE783E32B}
+	EndGlobalSection
+EndGlobal
